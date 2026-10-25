@@ -1,63 +1,105 @@
-# crypto-wallpapers-privacy
+# Privacy Policy – Cyberpunk Wallpapers Animated
 
-Privacy Policy – Crypto-Cyberpunk 4K AI-Walls
+**Last updated: October 25, 2026**
 
-Privacy Policy
+## 1. Introduction
 
-Crypto-Cyberpunk 4K AI-Walls („the App”) respects your privacy.
-This app does not collect, store or share any personal data from users.
+Cyberpunk Wallpapers Animated ("the App") provides AI-inspired cyberpunk, fantasy, static and live wallpapers for Android devices.
 
-The App provides static digital wallpapers stored locally inside the application package.
-No accounts, logins, registrations, or user uploads are required to use the App.
+We respect your privacy and are committed to transparency about how information is handled when you use the App.
 
-Information Collection & Use
+The App does not require account registration, login, or the submission of personal information. However, some third-party services integrated into the App may automatically collect or process certain data.
 
-The App itself does not collect any personal information.
+## 2. Information Collection and Use
 
-However, the App uses Google AdMob to display advertisements.
-AdMob may collect certain data automatically for the purpose of:
+The App uses the following services:
 
-personalized or non-personalized advertising
+**Google AdMob (Google Mobile Ads SDK)**
 
-fraud prevention
+We display advertisements to support the App. Depending on your privacy choices and applicable laws, Google and its advertising partners may process information such as advertising identifiers, device information, IP addresses, and advertising interaction data.
 
-analytics
+This information may be used for advertising delivery, measurement, frequency capping, fraud prevention, and advertising personalization where permitted.
 
-frequency capping
+**Google User Messaging Platform (UMP)**
 
-AdMob’s data practices are governed by Google’s Privacy Policy:
-https://policies.google.com/privacy
+We use Google UMP to request and manage privacy and advertising consent where required, including for eligible users in the European Economic Area, the United Kingdom, and Switzerland.
 
-The developer of this App does not access or view any data collected by AdMob.
+You can manage your choices through the privacy options available in the App when applicable.
 
-User Content
+**Firebase Analytics**
 
-The App does not allow users to upload, share, or create content.
-All images are static wallpapers provided by the App developer.
+We use Firebase Analytics to understand general App usage and improve the user experience. Information may include app interactions, device characteristics, app-instance identifiers, and approximate geographic information.
 
-Children’s Privacy
+**Firebase Crashlytics**
 
-The App is not intended for children under 13.
-The App does not target children and does not collect any data from children.
+We use Firebase Crashlytics to identify crashes and improve App stability. Crash reports may contain technical diagnostic information, device details, app version, installation identifiers, and information about the circumstances of a crash.
 
-Third-Party Services
+**Cloudinary**
 
-The App uses the following third-party service:
+Wallpaper images, videos, previews, and content information may be delivered from Cloudinary servers. When these resources are requested, technical information such as IP addresses and request details may be processed to deliver the content.
 
-Google AdMob
+## 3. Wallpapers, Downloads and Local Storage
 
-Data Security
+The App allows users to browse, download, share, and apply static or live wallpapers.
 
-No user data is stored or transmitted by the App.
-All wallpapers are stored locally on the device.
+Downloaded images may be saved to your device. Favorites, language preferences, and certain App settings may be stored locally.
 
-Changes to This Privacy Policy
+The App does not require users to create accounts or upload their own personal content to our servers.
 
-This Privacy Policy may be updated if required.
-Updates will appear at the same URL.
+When you choose to share content, the Android sharing system and the receiving application may process that content under their own privacy practices.
 
-Contact
+## 4. Advertising Consent and Privacy Choices
 
-If you have questions about this Privacy Policy, contact:
+Where required, the App requests advertising consent through Google's User Messaging Platform.
 
-Email: magischetraeume@gmail.com
+Users may accept, reject, or manage their choices using the options presented in the consent message.
+
+Where required by the consent-management system, privacy choices can also be reviewed from the App's Settings screen.
+
+Declining personalized advertising does not necessarily prevent non-personalized or other legally permitted advertising, or technical data processing necessary for the operation and security of services.
+
+## 5. Data Sharing and Retention
+
+We do not sell personal data.
+
+The third-party services described above may process information according to their respective privacy policies, contractual arrangements, and applicable laws. Information may be processed in countries outside your country of residence.
+
+Data retention depends on the category of information and the relevant service. Locally saved wallpapers and App preferences generally remain on your device until you remove them or delete applicable App data.
+
+## 6. Data Security
+
+We take reasonable measures to protect information handled through the App. However, no internet transmission or electronic storage system can be guaranteed to be completely secure.
+
+## 7. Children's Privacy
+
+The App is not designed for children under the age of 13, and we do not intentionally target advertising to children under 13.
+
+If you believe a child has provided personal information through the App or its associated services, please contact us.
+
+## 8. Your Privacy Rights
+
+Depending on your location, you may have rights to request access to, correction of, or deletion of your personal information, or to object to or restrict certain processing.
+
+You may contact us using the email address below. You can also manage advertising consent through the App when the relevant privacy options are available.
+
+## 9. Third-Party Privacy Policies
+
+For more information about the services used by the App:
+
+- Google Privacy Policy: https://policies.google.com/privacy
+- Firebase Privacy and Security: https://firebase.google.com/support/privacy
+- Cloudinary Privacy Policy: https://cloudinary.com/privacy
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy to reflect changes in the App, third-party services, or legal requirements. The updated version will be published at this same URL with a revised date.
+
+## 11. Contact
+
+If you have questions or privacy-related requests, contact the App developer:
+
+**Email:** magischetraeume@gmail.com
+
+**Application:** Cyberpunk Wallpapers Animated
+
+**Android package:** com.imre.cryptowallpapers
